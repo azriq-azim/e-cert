@@ -8,5 +8,5 @@ This repository showcases my digital certificates earned in various fields. Belo
    - *Issuing Organization:* Organization Name
    - *Date Earned:* MM/DD/YYYY
 
-   ![Certificate 1] https://1drv.ms/b/s!Ajk1l-GsuCxggdI8UnbosXZqLw2ltg?e=DjYS6L
+   ![Certificate 1]  <img src=https://github.com/azriq-azim/e-cert/blob/main/FORTINET%20NSE%201-1.png alt=test>
 
