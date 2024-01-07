@@ -13,7 +13,7 @@ This repository showcases my digital certificates earned through my journey in c
 
 
 2. **Google Cybersecurity**
-   - *Issuing Organization:* Google
+   - *Issuing Organization:* Coursera
    - *Date Earned:* 02/09/2023
    
     <img src= https://github.com/azriq-azim/e-cert/blob/main/images/Google%20Cybersecurity.png alt="Google" width="70%">
