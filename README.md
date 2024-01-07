@@ -4,6 +4,14 @@ This repository showcases my digital certificates earned through my journey in c
 
 ## Certificates
 
+1. **Jr Penetration Tester**
+   - *Issuing Organization:* TryHackMe
+   - *Date Earned:* 16/12/2023
+
+    <img src= https://github.com/azriq-azim/e-cert/blob/main/images/Jr%20Penetration%20Tester.png alt="ISC2 CC" width="70%">
+
+
+
 1. **ISC2 Certified in Cybersecurity**
    - *Issuing Organization:* International Information System Security Certification Consortium
    - *Date Earned:* 01/08/2023
