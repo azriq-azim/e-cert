@@ -8,7 +8,7 @@ This repository showcases my digital certificates earned through my journey in c
    - *Issuing Organization:* International Information System Security Certification Consortium
    - *Date Earned:* 01/08/2023
 
-    <img src= https://github.com/azriq-azim/e-cert/blob/main/images/(ISC)%C2%B2%20Certified%20in%20Cybersecurity.png alt="ISC2 CC" width="55%">
+    <img src= https://github.com/azriq-azim/e-cert/blob/main/images/(ISC)%C2%B2%20Certified%20in%20Cybersecurity.png alt="ISC2 CC" width="70%">
 
 
 
@@ -16,7 +16,7 @@ This repository showcases my digital certificates earned through my journey in c
    - *Issuing Organization:* Google
    - *Date Earned:* 02/09/2023
    
-    <img src= https://github.com/azriq-azim/e-cert/blob/main/images/Google%20Cybersecurity.png alt="Google" width="55%">
+    <img src= https://github.com/azriq-azim/e-cert/blob/main/images/Google%20Cybersecurity.png alt="Google" width="70%">
 
 
 
@@ -24,7 +24,7 @@ This repository showcases my digital certificates earned through my journey in c
     - *Issuing Organization:* IBM
     - *Date Earned:* 30/07/2023
       
-    <img src= https://github.com/azriq-azim/e-cert/blob/main/images/IBM%20Cybersecurity%20Fundamentals.png alt="IBM" width="55%">
+    <img src= https://github.com/azriq-azim/e-cert/blob/main/images/IBM%20Cybersecurity%20Fundamentals.png alt="IBM" width="70%">
 
 
 
@@ -32,7 +32,7 @@ This repository showcases my digital certificates earned through my journey in c
     - *Issuing Organization:* Coursera
     - *Date Earned:* 09/09/2023
 
-     <img src= https://github.com/azriq-azim/e-cert/blob/main/images/Wireshark%20for%20Beginners%20-%20Capture%20Packets.png alt="Coursera" width="55%">
+     <img src= https://github.com/azriq-azim/e-cert/blob/main/images/Wireshark%20for%20Beginners%20-%20Capture%20Packets.png alt="Coursera" width="70%">
 
 
 
@@ -40,7 +40,7 @@ This repository showcases my digital certificates earned through my journey in c
     - *Issuing Organization:* FORTINET
     - *Date Earned:* 05/07/2023
 
-    <img src= https://github.com/azriq-azim/e-cert/blob/main/images/FORTINET%20NSE%201.png alt="FORTINET1" width="55%">
+    <img src= https://github.com/azriq-azim/e-cert/blob/main/images/FORTINET%20NSE%201.png alt="FORTINET1" width="70%">
 
 
 
@@ -48,7 +48,7 @@ This repository showcases my digital certificates earned through my journey in c
     - *Issuing Organization:* FORTINET
     - *Date Earned:* 20/07/2023
 
-    <img src= https://github.com/azriq-azim/e-cert/blob/main/images/FORTINET%20NSE%202.png alt="FORTINET3" width="55%">
+    <img src= https://github.com/azriq-azim/e-cert/blob/main/images/FORTINET%20NSE%202.png alt="FORTINET3" width="70%">
 
 
 
@@ -56,7 +56,7 @@ This repository showcases my digital certificates earned through my journey in c
     - *Issuing Organization:* FORTINET
     - *Date Earned:* 23/07/2023
 
-    <img src= https://github.com/azriq-azim/e-cert/blob/main/images/FORTINET%20NSE%203.png alt="FORTINET3" width="55%">
+    <img src= https://github.com/azriq-azim/e-cert/blob/main/images/FORTINET%20NSE%203.png alt="FORTINET3" width="70%">
 
 
 
@@ -65,4 +65,4 @@ This repository showcases my digital certificates earned through my journey in c
     - *Issuing Organization:* Forage
     - *Date Earned:* 31/07/2023
 
-    <img src=https://github.com/azriq-azim/e-cert/blob/main/images/Mastercard%20Cybersecurity%20Virtual%20Experience%20Program.png alt="FORAGE" width="55%">
+    <img src=https://github.com/azriq-azim/e-cert/blob/main/images/Mastercard%20Cybersecurity%20Virtual%20Experience%20Program.png alt="FORAGE" width="70%">
