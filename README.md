@@ -1,6 +1,6 @@
 # E-Cert Repository
 
-This repository showcases my digital certificates earned in various fields. Below is a list of my certifications:
+This repository showcases my digital certificates earned through my journey in cybersecurity Below is a list of my certifications:
 
 ## Certificates
 
@@ -8,5 +8,5 @@ This repository showcases my digital certificates earned in various fields. Belo
    - *Issuing Organization:* Organization Name
    - *Date Earned:* MM/DD/YYYY
 
-   ![Certificate 1]  <img src=https://github.com/azriq-azim/e-cert/blob/main/FORTINET%20NSE%201-1.png alt=test>
+   ![Certificate 1]  <img  alt=test>
 
