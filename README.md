@@ -4,6 +4,13 @@ This repository showcases my digital certificates earned through my journey in c
 
 ## Certificates
 
+1. **SOC Level 1**
+   - *Issuing Organization:* TryHackMe
+   - *Date Earned:* 09/01/2024
+
+    <img src= https://github.com/azriq-azim/e-cert/blob/main/images/Jr%20Penetration%20Tester.png alt="ISC2 CC" width="70%">
+
+
 1. **Jr Penetration Tester**
    - *Issuing Organization:* TryHackMe
    - *Date Earned:* 16/12/2023
