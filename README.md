@@ -4,7 +4,13 @@ This repository showcases my digital certificates earned through my journey in c
 
 ## Certificates
 
-1. **TryHackMe SOC Level 1**
+1.**CompTIA PenTest+**
+   - *Issuing Organization:* CompTIA
+   - *Date Earned:* 16/3/2024
+
+    <img src= https://github.com/azriq-azim/e-cert/blob/main/images/CompTIA%20PenTest%2B%20ce%20certificate.pdf alt="PenTest+" width="70%">
+
+2. **TryHackMe SOC Level 1**
    - *Issuing Organization:* TryHackMe
    - *Date Earned:* 09/01/2024
 
